@@ -1,0 +1,2 @@
+# NaiveBayes
+ NaiveBayes using numpy
